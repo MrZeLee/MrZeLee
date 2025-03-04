@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🌱 Currently learning: NixOS & AWS
+- ⚡ Fun fact: Built my personal Raspberry Pi cluster
+- 🎯 Hobbies: Chess ♟️ & Piano 🎹
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrZeLee&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical&langs_count=6&hide=smarty)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **MrZeLee/MrZeLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
